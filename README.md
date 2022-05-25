@@ -1,0 +1,2 @@
+# Mycode
+For internship purpose
